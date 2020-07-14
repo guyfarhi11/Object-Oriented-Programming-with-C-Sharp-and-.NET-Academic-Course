@@ -1,0 +1,2 @@
+C:\Users\rafaelfa\Desktop\לגיט\B20 Ex02 GuyFarhi 206172280 YanivYakobovich 309797827\B20 Ex02 GuyFarhi 206172280 YanivYakobovich 309797827\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\rafaelfa\Desktop\לגיט\B20 Ex02 GuyFarhi 206172280 YanivYakobovich 309797827\B20 Ex02 GuyFarhi 206172280 YanivYakobovich 309797827\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
